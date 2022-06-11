@@ -20,3 +20,6 @@
 | 6주차 | 리크루팅 대시보드 - 설문지 리스트 완성, 대시보드 디자인 구상  | 
 | 7주차 | 리크루팅 대시보드 제작 |
 | +  | 리크루팅 대시보드 제작 마무리 |
+
+## 대시보드 제작
+- [KUBIG dashboard(pc only✨)] (https://public.tableau.com/views/KUBIGdashboard/D1?%3AshowVizHome=no&%3Aembed=true#1)
